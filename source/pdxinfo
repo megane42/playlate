@@ -5,3 +5,6 @@ bundleID=com.yourcompany.TemplateGame
 version=1.0
 buildNumber=100
 imagePath=system-assets
+# launchSoundPath=optional
+# contentWarning=optional
+# contentWarning2=optional
